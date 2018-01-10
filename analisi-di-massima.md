@@ -9,7 +9,7 @@ Firebase è una piattaforma integrata per lo sviluppo di Applicazioni Mobile e W
     - Facebook
     - Twitter
 - Database
-- Hosting per Landing page - ?
+- Hosting per Applicazione Backoffice
 - Storage per archiviazione media
 - Elaborazione dati e Logica applicativa
     - Utilizzando Node JS
@@ -31,6 +31,12 @@ NativeScript è un Framework open source che permette lo sviluppo di Applicazion
 - Grafici Small Data e Big Data?
 - Impostazioni generiche della Piattaforma
 - Multilingua
+
+### Landing Page
+- @Sara
+
+### Reporting
+- PowerBI
 
 ### Stripe
 - Piattaforma per pagamenti online
