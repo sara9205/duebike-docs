@@ -96,8 +96,8 @@ Il Partner avrà la possibilità di inoltrare i pagamenti verso i Turisti. Media
 Stripe ha una commissione fissa per ogni transazione effettuata.
 
 ### Relazioni tra gli oggetti
-![Circuito Tour](https://www.dropbox.com/s/fv70tffhpocfjla/1.jpg?dl=1)
-![Offerte](https://www.dropbox.com/s/oao4rxk9gn6bxhz/2.jpg?dl=1)
-![Planning](https://www.dropbox.com/s/1qokfmlmmat30h5/3.jpg?dl=1)
+![Circuito Tour](https://github.com/DueBiKe/duebike-docs/blob/master/images/1.jpg)
+![Offerte](https://github.com/DueBiKe/duebike-docs/blob/master/images/2.jpg)
+![Planning](https://github.com/DueBiKe/duebike-docs/blob/master/images/3.jpg)
 
 ## Raccolta Dati
